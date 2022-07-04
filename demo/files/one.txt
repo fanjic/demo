@@ -1,3 +1,6 @@
 this is a cat
 
 https://github.com/alibaba/Sentinel/releases
+java ‐Dserver.port=8858 ‐Dsentinel.dashboard.auth.username=xushu ‐Dsentinel.dashboard.auth.password=123456 ‐jar D:\server\sentinel‐dashboard‐1.8.0.jar
+pause
+
